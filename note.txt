@@ -1,0 +1,19 @@
+1. Install
+npm install -g truffle
+https://github.com/trufflesuite/ganache-ui/releases
+https://remix.ethereum.org/
+Extension Chrome MetaMask
+https://opensea.io/
+
+2. Tai lieu lap trinh
+https://www.geeksforgeeks.org/creating-a-smart-contract-that-returns-address-and-balance-of-owner-using-solidity/
+
+3. Chu y:
+Solidity va truffle de phat trien contract va dua len san. Con dapp va web3 de ket noi contract tren sang voi vi MetaMask
+
+
+
+
+
+
+

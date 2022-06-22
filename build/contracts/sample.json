@@ -1,0 +1,123 @@
+{
+  "contractName": "sample",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.11+commit.d7f03943\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/sample.sol\":\"sample\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/sample.sol\":{\"keccak256\":\"0x166adcdc6c317872ddd57e026d2fdf27e9ad97ae5c5292c8d4024742b56627ec\",\"urls\":[\"bzz-raw://12d458a739fac5b263a312aaea16fae3b14a43c9df08dc87f965d7dc5d44bc53\",\"dweb:/ipfs/QmS8UdX2DiYvkRj2tcDpb39684XERAqvp3WqsvRQTnKY5c\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212200e90e73ace375dee8ca10870c905b8a7c33cdd9146855963a8beec2b4b816f8764736f6c634300080b0033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212200e90e73ace375dee8ca10870c905b8a7c33cdd9146855963a8beec2b4b816f8764736f6c634300080b0033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "34:25:1:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "34:25:1:-:0;;;;;",
+  "source": "pragma solidity >=0.4.22 <0.9.0;\r\ncontract sample{\r\n    \r\n}",
+  "sourcePath": "D:\\BlockchainProjects\\sample_block\\contracts\\sample.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/sample.sol",
+    "exportedSymbols": {
+      "sample": [
+        35
+      ]
+    },
+    "id": 36,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 34,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".22",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:32:1"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "sample",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 35,
+        "linearizedBaseContracts": [
+          35
+        ],
+        "name": "sample",
+        "nameLocation": "43:6:1",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 36,
+        "src": "34:25:1",
+        "usedErrors": []
+      }
+    ],
+    "src": "0:59:1"
+  },
+  "legacyAST": {
+    "absolutePath": "project:/contracts/sample.sol",
+    "exportedSymbols": {
+      "sample": [
+        35
+      ]
+    },
+    "id": 36,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 34,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".22",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:32:1"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "sample",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 35,
+        "linearizedBaseContracts": [
+          35
+        ],
+        "name": "sample",
+        "nameLocation": "43:6:1",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 36,
+        "src": "34:25:1",
+        "usedErrors": []
+      }
+    ],
+    "src": "0:59:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.11+commit.d7f03943.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.4",
+  "updatedAt": "2022-01-11T08:56:26.380Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
